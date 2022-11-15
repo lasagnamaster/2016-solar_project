@@ -11,6 +11,7 @@ def read_space_objects_data_from_file(input_filename):
     Параметры:
 
     **input_filename** — имя входного файла
+    Леша привет
     """
 
     objects = []
